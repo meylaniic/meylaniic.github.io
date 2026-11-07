@@ -1,0 +1,45 @@
+{
+  "_archivo-black-400-normal-BTVu2TQR.woff2": {
+    "file": "assets/archivo-black-400-normal-BTVu2TQR.woff2",
+    "src": "_archivo-black-400-normal-BTVu2TQR.woff2"
+  },
+  "_archivo-black-400-normal-HW9MwEcM.woff": {
+    "file": "assets/archivo-black-400-normal-HW9MwEcM.woff",
+    "src": "_archivo-black-400-normal-HW9MwEcM.woff"
+  },
+  "_fonts-D_35qSMx.css": {
+    "file": "assets/fonts-D_35qSMx.css",
+    "src": "_fonts-D_35qSMx.css"
+  },
+  "_poppins-400-normal-BOb3E3N0.woff": {
+    "file": "assets/poppins-400-normal-BOb3E3N0.woff",
+    "src": "_poppins-400-normal-BOb3E3N0.woff"
+  },
+  "_poppins-400-normal-cpxAROuN.woff2": {
+    "file": "assets/poppins-400-normal-cpxAROuN.woff2",
+    "src": "_poppins-400-normal-cpxAROuN.woff2"
+  },
+  "_poppins-700-normal-BVuQR_eA.woff": {
+    "file": "assets/poppins-700-normal-BVuQR_eA.woff",
+    "src": "_poppins-700-normal-BVuQR_eA.woff"
+  },
+  "_poppins-700-normal-Qrb0O0WB.woff2": {
+    "file": "assets/poppins-700-normal-Qrb0O0WB.woff2",
+    "src": "_poppins-700-normal-Qrb0O0WB.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-CCC4q8t3.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Cf0dCpwo.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
